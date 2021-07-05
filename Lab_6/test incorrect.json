@@ -1,0 +1,16 @@
+{
+"strMember": "new str",
+"intMember": 1,
+"objMember": {
+"arrMamber": [1, 2, 3]
+},
+{
+"a": {
+"b": {
+"c": {
+"elem": "0
+}
+}
+}
+}
+}
